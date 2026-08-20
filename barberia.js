@@ -34,8 +34,7 @@ navLinks.forEach(link => {
 // WHATSAPP
 // ==============================
 
-const whatsappNumber =
-    "59170000000";
+const whatsappNumber = "59178857920";
 
 
 const whatsappLinks =
